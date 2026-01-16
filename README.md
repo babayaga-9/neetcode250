@@ -2,5 +2,5 @@
 
 ## Arrays
 
-1. Concatenation of Array [Link]
-2. Contains Duplicates [Link]
+1. Concatenation of Array [Solution](Arrays/ConcatenationOfArray.java)
+2. Contains Duplicates [Solution](Arrays/ContainsDuplicates.java)
